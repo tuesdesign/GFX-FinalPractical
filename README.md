@@ -26,3 +26,4 @@
 - This is a similar effect to the downsample blur that was taught in class. like that effect, it downsamples the output of the camera and then upsamples it back to the desired output resolution, thus reducing image quality. This effect uses point / Nearest Neighbor filtering (ie: no filter), and so as opposed to a blur effect it 'pixelates' the image. I thought this effect would fit this retro game scene. 
 ![Screenshot 2023-04-21 141914](https://user-images.githubusercontent.com/64446905/233707560-a21fadde-6a78-4c50-b616-0589c54ac8b6.png)
 
+![Screenshot 2023-04-21 142503](https://user-images.githubusercontent.com/64446905/233708825-f205d8df-1eb9-4410-a966-7709189a7917.png)
