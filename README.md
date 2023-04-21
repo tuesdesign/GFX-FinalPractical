@@ -9,6 +9,9 @@
 
 ## Bump Mapping
  - I created an albedo and bump texture and used these to achieve an look similar to the wallpaper in the game
+![wallBump](https://user-images.githubusercontent.com/64446905/233706952-df037aaa-461c-4b2a-a854-b74f6682ba75.png)
+![wallAlbedo](https://user-images.githubusercontent.com/64446905/233706990-4b1ff5bb-b51c-4a4f-8792-418d3f2e173d.png)
+
 
 ## Flowing Lava
  - This is a modified version of the wave shader from class. The effect can now be toggled to simulate a binary state of either moving slowly or quickly (with more turbulence). The effect is achieved using vertex displacement and is applied to a rotated prism ( a plane didn't look quite right ) 
