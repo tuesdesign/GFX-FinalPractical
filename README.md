@@ -1,7 +1,7 @@
 # GFX-FinalPractical
  Final Exam Practical Component
-
-
+( I made a mistake and misread which section to complete, So i've done the 'even' shaders. I also did the scantron as 'even') 
+ 
 ## Scene Creation:
  - Scene contains Floor, walls, moving player, moving light ( attached to player)
 
