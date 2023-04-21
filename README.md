@@ -4,6 +4,8 @@
  
 ## Scene Creation:
  - Scene contains Floor, walls, moving player, moving light ( attached to player)
+ 
+ ![sceneGeom-GFX-final](https://user-images.githubusercontent.com/64446905/233706794-37fb0f65-6ebb-42bb-b218-bb0a0a96b634.png)
 
 ## Bump Mapping
  - I created an albedo and bump texture and used these to achieve an look similar to the wallpaper in the game
